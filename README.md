@@ -38,18 +38,36 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![Screenshot 2024-12-28 213754](https://github.com/user-attachments/assets/2f8014a7-63e1-4417-b3c5-0fbb36f460d9)
+
+ 
+
 **Procedure**
 
 Write the detailed procedure here
+1.Write a code in quartus software by creating a new project wizard. 2.Run the program to get
+output. 3.Then open the RTL viewer and download that image. 4.Pen the new file with University
+program VWF. 5.Set end timer and execute, then downloag the waveform.
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![Screenshot 2024-12-28 213923](https://github.com/user-attachments/assets/f864619d-6649-4ebb-b545-9d11f53aa27e)
+
+ 
+ Developed by:MOHANA PRIYA.R
+ 
+ RegisterNumber:24900710
+
 
 **RTL Schematic**
 
+![Screenshot 2024-12-28 213934](https://github.com/user-attachments/assets/2074b0e9-aa48-491d-9549-4e098ee79e48)
+
+
 **Output Timing Waveform**
+
+![Screenshot 2024-12-28 213950](https://github.com/user-attachments/assets/3276e814-654e-4b91-885e-1507fbb88079)
+
 
 **Result:**
 
